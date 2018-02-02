@@ -8,6 +8,7 @@ int main()
   if (n<0)
   {
       printf("Error! Factorial of a negative number doesn't exist.");
+   printf("\n this is errror");
    }
   else
     {
