@@ -4,6 +4,7 @@ void main()
 char str[100];
 int word=0,i=0;
 printf("Enter a line");
+printf(" enter the sn=me words");
 gets(str);
 while(str[i]!='\0')
 {
