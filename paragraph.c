@@ -2,6 +2,7 @@
 #include<string.h>
 int main()
 {
+printf("enter the value");
 	char a[50]="hello world.good bye";
 	int k;
 	k=strlen(a);
