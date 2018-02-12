@@ -2,7 +2,7 @@ def avg(l,n):
 	sum=0
 	for i in range(n):
 		sum+=l[i]
-	print(sum/n)
+	print(sum/nu)
 def main():
 	try:
 		n=int(input())
