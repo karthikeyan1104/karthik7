@@ -2,6 +2,7 @@
 int main(void) {
 	char str[50];
 	int count=0;
+	printf("N");
 	scanf("%[^\n]s",str);
     for(int i=0;str[i]!='\0';i++)
 	{
