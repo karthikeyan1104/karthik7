@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main() {
+   int n,i,a=65;
+   scanf("%d",&n);
+   printf("P");
+   for(i=1;i<n;i++)
+   {
+    a++;
+}  printf("%c",a);
+}
